@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsharpBasicLevel", "CsharpBasicLevel\CsharpBasicLevel.csproj", "{CDAF4A60-CD11-46D0-AE59-BAF816EF6D20}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Functions", "Functions\Functions.csproj", "{2590D965-AC8F-46CC-86AA-B7A152A1C986}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCalculator", "SwitchCalculator\SwitchCalculator.csproj", "{25D8BC28-ECEB-4803-9D4B-80CAAB85B091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{6D0550CA-A1B2-486C-A97E-2E46F4A50AD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticConstructore", "StaticConstructore\StaticConstructore.csproj", "{8A294885-C9FB-4C4C-AAFC-CA20D8A1CF02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers", "AccessModifiers\AccessModifiers.csproj", "{A27650E0-0D5B-451D-B0A2-61CF5ADD5B93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDAF4A60-CD11-46D0-AE59-BAF816EF6D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDAF4A60-CD11-46D0-AE59-BAF816EF6D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDAF4A60-CD11-46D0-AE59-BAF816EF6D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDAF4A60-CD11-46D0-AE59-BAF816EF6D20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2590D965-AC8F-46CC-86AA-B7A152A1C986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2590D965-AC8F-46CC-86AA-B7A152A1C986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2590D965-AC8F-46CC-86AA-B7A152A1C986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2590D965-AC8F-46CC-86AA-B7A152A1C986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25D8BC28-ECEB-4803-9D4B-80CAAB85B091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25D8BC28-ECEB-4803-9D4B-80CAAB85B091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25D8BC28-ECEB-4803-9D4B-80CAAB85B091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25D8BC28-ECEB-4803-9D4B-80CAAB85B091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D0550CA-A1B2-486C-A97E-2E46F4A50AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D0550CA-A1B2-486C-A97E-2E46F4A50AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D0550CA-A1B2-486C-A97E-2E46F4A50AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D0550CA-A1B2-486C-A97E-2E46F4A50AD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A294885-C9FB-4C4C-AAFC-CA20D8A1CF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A294885-C9FB-4C4C-AAFC-CA20D8A1CF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A294885-C9FB-4C4C-AAFC-CA20D8A1CF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A294885-C9FB-4C4C-AAFC-CA20D8A1CF02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A27650E0-0D5B-451D-B0A2-61CF5ADD5B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27650E0-0D5B-451D-B0A2-61CF5ADD5B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27650E0-0D5B-451D-B0A2-61CF5ADD5B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27650E0-0D5B-451D-B0A2-61CF5ADD5B93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA1F6D37-986F-40C0-8C4C-DE44CC7176FF}
+	EndGlobalSection
+EndGlobal
