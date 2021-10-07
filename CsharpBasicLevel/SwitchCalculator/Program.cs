@@ -1,7 +1,4 @@
-﻿using System;
-using static System.Console;
-
-namespace SwitchCalculator
+﻿namespace SwitchCalculator
 {
     class Program
     {
