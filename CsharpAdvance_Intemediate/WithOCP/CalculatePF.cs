@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace WithOCP
+﻿namespace WithOCP
 {
-   public abstract class CalculatePF
+    public abstract class CalculatePF
     {
         public abstract void PFCalculation(double salary, string status);
         public double totalPF = 0;

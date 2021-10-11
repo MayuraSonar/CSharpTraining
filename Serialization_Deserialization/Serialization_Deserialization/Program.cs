@@ -1,8 +1,4 @@
-﻿using System;
-using static System.Console;
-using System.Runtime.Serialization.Formatters.Binary;
-using System.IO;
-namespace Serialization_Deserialization
+﻿namespace Serialization_Deserialization
 {
 
     [Serializable]

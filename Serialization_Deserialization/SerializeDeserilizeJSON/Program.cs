@@ -1,9 +1,4 @@
-﻿
-using Newtonsoft.Json;
-using System;
-using System.Collections.Generic;
-using System.IO;
-namespace SerializeDeserilizeJSON
+﻿namespace SerializeDeserilizeJSON
 {
     /*
      1. using NewtonSoft.json
@@ -11,7 +6,7 @@ namespace SerializeDeserilizeJSON
      2. JavascriptJSONSerializer
          */
 
-        public class Employee
+    public class Employee
     {
         public int id;
         public string name;

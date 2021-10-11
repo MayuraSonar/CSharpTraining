@@ -1,8 +1,4 @@
-﻿using System;
-using System.Xml.Serialization;
-using System.Runtime.Serialization.Formatters.Binary;
-using System.IO;
-namespace Serialize_DeserializeXML
+﻿namespace Serialize_DeserializeXML
 {
 
     [XmlRoot("EmployeeDetails")]
@@ -15,8 +11,7 @@ namespace Serialize_DeserializeXML
         [XmlAttribute("EmployeeLocation")]
         public string location;
 
-       
-      
+          
     }
     class Program
     {
