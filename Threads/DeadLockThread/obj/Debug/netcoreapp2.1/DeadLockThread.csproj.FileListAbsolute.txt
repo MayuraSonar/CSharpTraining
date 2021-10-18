@@ -1,0 +1,11 @@
+D:\CSharpTraining\Threads\DeadLockThread\bin\Debug\netcoreapp2.1\DeadLockThread.deps.json
+D:\CSharpTraining\Threads\DeadLockThread\bin\Debug\netcoreapp2.1\DeadLockThread.runtimeconfig.json
+D:\CSharpTraining\Threads\DeadLockThread\bin\Debug\netcoreapp2.1\DeadLockThread.runtimeconfig.dev.json
+D:\CSharpTraining\Threads\DeadLockThread\bin\Debug\netcoreapp2.1\DeadLockThread.dll
+D:\CSharpTraining\Threads\DeadLockThread\bin\Debug\netcoreapp2.1\DeadLockThread.pdb
+D:\CSharpTraining\Threads\DeadLockThread\obj\Debug\netcoreapp2.1\DeadLockThread.csprojAssemblyReference.cache
+D:\CSharpTraining\Threads\DeadLockThread\obj\Debug\netcoreapp2.1\DeadLockThread.csproj.CoreCompileInputs.cache
+D:\CSharpTraining\Threads\DeadLockThread\obj\Debug\netcoreapp2.1\DeadLockThread.AssemblyInfoInputs.cache
+D:\CSharpTraining\Threads\DeadLockThread\obj\Debug\netcoreapp2.1\DeadLockThread.AssemblyInfo.cs
+D:\CSharpTraining\Threads\DeadLockThread\obj\Debug\netcoreapp2.1\DeadLockThread.dll
+D:\CSharpTraining\Threads\DeadLockThread\obj\Debug\netcoreapp2.1\DeadLockThread.pdb
