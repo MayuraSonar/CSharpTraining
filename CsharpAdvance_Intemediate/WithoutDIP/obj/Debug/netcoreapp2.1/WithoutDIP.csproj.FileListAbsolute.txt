@@ -1,0 +1,11 @@
+D:\CSharpTraining\CsharpAdvance_Intemediate\WithoutDIP\bin\Debug\netcoreapp2.1\WithoutDIP.deps.json
+D:\CSharpTraining\CsharpAdvance_Intemediate\WithoutDIP\bin\Debug\netcoreapp2.1\WithoutDIP.runtimeconfig.json
+D:\CSharpTraining\CsharpAdvance_Intemediate\WithoutDIP\bin\Debug\netcoreapp2.1\WithoutDIP.runtimeconfig.dev.json
+D:\CSharpTraining\CsharpAdvance_Intemediate\WithoutDIP\bin\Debug\netcoreapp2.1\WithoutDIP.dll
+D:\CSharpTraining\CsharpAdvance_Intemediate\WithoutDIP\bin\Debug\netcoreapp2.1\WithoutDIP.pdb
+D:\CSharpTraining\CsharpAdvance_Intemediate\WithoutDIP\obj\Debug\netcoreapp2.1\WithoutDIP.csprojAssemblyReference.cache
+D:\CSharpTraining\CsharpAdvance_Intemediate\WithoutDIP\obj\Debug\netcoreapp2.1\WithoutDIP.csproj.CoreCompileInputs.cache
+D:\CSharpTraining\CsharpAdvance_Intemediate\WithoutDIP\obj\Debug\netcoreapp2.1\WithoutDIP.AssemblyInfoInputs.cache
+D:\CSharpTraining\CsharpAdvance_Intemediate\WithoutDIP\obj\Debug\netcoreapp2.1\WithoutDIP.AssemblyInfo.cs
+D:\CSharpTraining\CsharpAdvance_Intemediate\WithoutDIP\obj\Debug\netcoreapp2.1\WithoutDIP.dll
+D:\CSharpTraining\CsharpAdvance_Intemediate\WithoutDIP\obj\Debug\netcoreapp2.1\WithoutDIP.pdb
