@@ -1,23 +1,28 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29609.76
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsharpAdvance_Intemediate", "CsharpAdvance_Intemediate\CsharpAdvance_Intemediate.csproj", "{5555F407-D67A-40A5-8400-E67984EAD40C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WithSingleResponsibility", "WithSingleResponsibility\WithSingleResponsibility.csproj", "{51610FA5-3D9E-445C-BEF8-642586CEB2BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WithSingleResponsibility", "WithSingleResponsibility\WithSingleResponsibility.csproj", "{51610FA5-3D9E-445C-BEF8-642586CEB2BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WithoutOpenClosedPrincple", "WithoutOpenClosedPrincple\WithoutOpenClosedPrincple.csproj", "{21306BBC-16B4-4192-8C3E-F7154C1FBDA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WithoutOpenClosedPrincple", "WithoutOpenClosedPrincple\WithoutOpenClosedPrincple.csproj", "{21306BBC-16B4-4192-8C3E-F7154C1FBDA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WithOCP", "WithOCP\WithOCP.csproj", "{2E407576-734D-4CCB-BCE6-E4472B94D3F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WithOCP", "WithOCP\WithOCP.csproj", "{2E407576-734D-4CCB-BCE6-E4472B94D3F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WithoutISP", "WithoutISP\WithoutISP.csproj", "{85C8B5BC-DBA9-4842-A958-72D2A6F6FF7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WithoutISP", "WithoutISP\WithoutISP.csproj", "{85C8B5BC-DBA9-4842-A958-72D2A6F6FF7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WithISP", "WithISP\WithISP.csproj", "{F835217B-12AD-47EE-904D-3ADCFFFCD071}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WithISP", "WithISP\WithISP.csproj", "{F835217B-12AD-47EE-904D-3ADCFFFCD071}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WithoutDIP", "WithoutDIP\WithoutDIP.csproj", "{D1F6E5FD-18F7-4558-90FA-456079E5CC38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WithoutDIP", "WithoutDIP\WithoutDIP.csproj", "{D1F6E5FD-18F7-4558-90FA-456079E5CC38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WithDIP", "WithDIP\WithDIP.csproj", "{E6D45BE2-2D2C-4C81-86A9-1A56AD05C31F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WithDIP", "WithDIP\WithDIP.csproj", "{E6D45BE2-2D2C-4C81-86A9-1A56AD05C31F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B4A5A872-3154-4977-97E1-A61A0F5C9F76}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

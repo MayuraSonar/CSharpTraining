@@ -1,0 +1,10 @@
+D:\CSharpTraining\CsharpAdvance_Intemediate\CsharpAdvance_Intemediate\bin\Debug\netcoreapp1.1\CsharpAdvance_Intemediate.deps.json
+D:\CSharpTraining\CsharpAdvance_Intemediate\CsharpAdvance_Intemediate\bin\Debug\netcoreapp1.1\CsharpAdvance_Intemediate.runtimeconfig.json
+D:\CSharpTraining\CsharpAdvance_Intemediate\CsharpAdvance_Intemediate\bin\Debug\netcoreapp1.1\CsharpAdvance_Intemediate.runtimeconfig.dev.json
+D:\CSharpTraining\CsharpAdvance_Intemediate\CsharpAdvance_Intemediate\bin\Debug\netcoreapp1.1\CsharpAdvance_Intemediate.dll
+D:\CSharpTraining\CsharpAdvance_Intemediate\CsharpAdvance_Intemediate\bin\Debug\netcoreapp1.1\CsharpAdvance_Intemediate.pdb
+D:\CSharpTraining\CsharpAdvance_Intemediate\CsharpAdvance_Intemediate\obj\Debug\netcoreapp1.1\CsharpAdvance_Intemediate.csprojAssemblyReference.cache
+D:\CSharpTraining\CsharpAdvance_Intemediate\CsharpAdvance_Intemediate\obj\Debug\netcoreapp1.1\CsharpAdvance_Intemediate.csproj.CoreCompileInputs.cache
+D:\CSharpTraining\CsharpAdvance_Intemediate\CsharpAdvance_Intemediate\obj\Debug\netcoreapp1.1\CsharpAdvance_Intemediate.AssemblyInfo.cs
+D:\CSharpTraining\CsharpAdvance_Intemediate\CsharpAdvance_Intemediate\obj\Debug\netcoreapp1.1\CsharpAdvance_Intemediate.dll
+D:\CSharpTraining\CsharpAdvance_Intemediate\CsharpAdvance_Intemediate\obj\Debug\netcoreapp1.1\CsharpAdvance_Intemediate.pdb
